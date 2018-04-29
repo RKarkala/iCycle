@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="343dp"
+    android:layout_height="349dp"
+    android:layout_gravity="center"
+    android:background="@drawable/cardbox"
+    >
+
+    <Button
+        android:id="@+id/closedef"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+
+        android:layout_gravity="right"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_weight="0.04"
+        android:background="@drawable/x_close" />
+
+
+    <TextView
+        android:id="@+id/def"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+
+        android:text="dsssssdsdsdsdsdsdsdsdsdsdsdsdsd"
+        android:textColor="#ffffff"
+
+        android:textSize="18dp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </FrameLayout>

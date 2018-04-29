@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\rkark\Desktop\ezDubLul\temp\iCycle\app\app.iml" filepath="C:\Users\rkark\Desktop\ezDubLul\temp\iCycle\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/iCycle.iml" filepath="$PROJECT_DIR$/iCycle.iml" />
-      <module fileurl="file://C:\Users\rkark\Desktop\ezDubLul\temp\iCycle\iCycle-master.iml" filepath="C:\Users\rkark\Desktop\ezDubLul\temp\iCycle\iCycle-master.iml" />
     </modules>
   </component>
 </project>

@@ -1,5 +1,9 @@
 # iCycle
-EarthXHack 2018 HackDFW
+<p>EarthXHack 2018 HackDFW</p>
+<img src="https://user-images.githubusercontent.com/33047045/39097178-907f1e06-461e-11e8-8414-68902e8ec67c.png" width="100" height="100"><br>
+<p>iCycle is a novel way to encourage people to integrate recycling into their lives and live in a sustainable manner.</p>
+
+<a href="https://devpost.com/software/icycle" target="_blank">Devpost</a>
 
 <h2>About:</h2>
 <p>iCycle is a novel way to encourage people to integrate recycling into their lives and live in a sustainable matter.</p>
@@ -15,6 +19,6 @@ EarthXHack 2018 HackDFW
 <h2>How it works:</h2>
 <ol>
   <li>User signs in or registers on the app</li>
-  <li>User has the ability to scan an object to retrieve its recyclablity or the user can calculate his carbon footprint and impact on the world anc compare it to the average American.</li>
+  <li>User has the ability to scan an object to retrieve its recyclablity or the user can calculate his carbon footprint and impact on the world and compare it to the average American.</li>
     <li>User scans the object, the app processes the image and predicts various possibilities of what the object might be. If it matches any recyclable material it categorizes the object as a recyclable material.</li>
     </ol>
